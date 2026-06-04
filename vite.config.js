@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.GITHUB_PAGES === 'true' ? '/AHgochi-hackathon/' : '/',
+  base: process.env.GITHUB_PAGES === 'true' ? '/ah-tech-technl-btc-ahgotchi/' : '/',
 })
