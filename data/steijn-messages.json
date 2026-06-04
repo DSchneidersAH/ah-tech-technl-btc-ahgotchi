@@ -1,0 +1,43 @@
+{
+  "greeting": [
+    "Hoi! I'm Steijn 👋",
+    "Meet AHgochi — your new sidekick. Care for it and it gives back.",
+    "Try a care action on the left to see what happens."
+  ],
+  "nudges": [
+    {
+      "id": "nudge-allerhande",
+      "trigger": "happiness>=30",
+      "text": "AHgochi is curious about new recipes — want to try a 15-minute stamppot from Allerhande?",
+      "cta": "Open Allerhande"
+    },
+    {
+      "id": "nudge-scan-kook",
+      "trigger": "happiness>=55",
+      "text": "Heads up: AH Scan & Kook is in beta. Snap your fridge, AHgochi will help pick dinner.",
+      "cta": "Try Scan & Kook"
+    },
+    {
+      "id": "nudge-bonusbox",
+      "trigger": "happiness>=70",
+      "text": "Your Bonus Box looks juicy this week. AHgochi is practically drooling.",
+      "cta": "Open Bonus Box"
+    },
+    {
+      "id": "nudge-waste",
+      "trigger": "happiness>=85",
+      "text": "Want to help AHgochi hit its food-waste streak? Three tiny swaps, big difference.",
+      "cta": "See the tips"
+    }
+  ],
+  "levelUp": [
+    "Whoa — AHgochi just evolved!",
+    "Look at it grow. New stage unlocked.",
+    "AHgochi levelled up. New cosmetic available."
+  ],
+  "idle": [
+    "AHgochi blinked at you.",
+    "AHgochi is humming the AH jingle.",
+    "AHgochi looked at the basket button. Just saying."
+  ]
+}

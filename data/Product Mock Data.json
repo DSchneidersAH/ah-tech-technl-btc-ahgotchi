@@ -1,0 +1,122 @@
+[
+  {
+    "artikelnummer": "100001",
+    "naam": "AH Volkorenbrood",
+    "beschrijving": "Vers afgebakken volkorenbrood, rijk aan vezels en ideaal voor een gezond ontbijt.",
+    "prijs": 2.39
+  },
+  {
+    "artikelnummer": "100002",
+    "naam": "AH Halfvolle Melk 1L",
+    "beschrijving": "Frisse, halfvolle melk in een handige 1 liter verpakking, perfect voor dagelijks gebruik.",
+    "prijs": 1.09
+  },
+  {
+    "artikelnummer": "100003",
+    "naam": "AH Bananen 1kg",
+    "beschrijving": "Rijpe bananen per kilo, ideaal als tussendoortje of voor in een smoothie.",
+    "prijs": 1.99
+  },
+  {
+    "artikelnummer": "100004",
+    "naam": "AH Pindakaas 350g",
+    "beschrijving": "Smeuïge pindakaas zonder toegevoegde suikers, heerlijk op brood of cracker.",
+    "prijs": 2.29
+  },
+  {
+    "artikelnummer": "100005",
+    "naam": "AH Tomaten 500g",
+    "beschrijving": "Smaakvolle, sappige tomaten, vers geoogst. Geschikt voor salades en warme gerechten.",
+    "prijs": 1.49
+  },
+  {
+    "artikelnummer": "100006",
+    "naam": "AH Appels Elstar 1kg",
+    "beschrijving": "Frisse, knapperige Elstar appels, perfect als gezonde snack.",
+    "prijs": 2.69
+  },
+  {
+    "artikelnummer": "100007",
+    "naam": "AH Sinaasappelsap 1L",
+    "beschrijving": "100% puur sinaasappelsap zonder toegevoegde suikers of conserveringsmiddelen.",
+    "prijs": 1.89
+  },
+  {
+    "artikelnummer": "100008",
+    "naam": "AH Volkoren Spaghetti 500g",
+    "beschrijving": "Volkoren spaghetti, bron van vezels voor een gezonde maaltijd.",
+    "prijs": 1.19
+  },
+  {
+    "artikelnummer": "100009",
+    "naam": "AH Jong Belegen Kaas 400g",
+    "beschrijving": "Smeuïge jong belegen kaas, ideaal voor op brood of als snack.",
+    "prijs": 4.99
+  },
+  {
+    "artikelnummer": "100010",
+    "naam": "AH Roomboter 250g",
+    "beschrijving": "Echte roomboter van hoge kwaliteit, geschikt voor bakken en smeren.",
+    "prijs": 2.49
+  },
+  {
+    "artikelnummer": "100011",
+    "naam": "AH Yoghurt Naturel 1L",
+    "beschrijving": "Volle yoghurt zonder toegevoegde suikers, voor ontbijt of tussendoor.",
+    "prijs": 1.39
+  },
+  {
+    "artikelnummer": "100012",
+    "naam": "AH Eieren Vrije Uitloop 10 stuks",
+    "beschrijving": "Verse eieren van kippen met vrije uitloop, per doos van 10.",
+    "prijs": 2.79
+  },
+  {
+    "artikelnummer": "100013",
+    "naam": "AH Rundergehakt 300g",
+    "beschrijving": "Vers rundergehakt, ideaal voor pasta, ovenschotels of gehaktballen.",
+    "prijs": 3.29
+  },
+  {
+    "artikelnummer": "100014",
+    "naam": "AH Komkommer stuk",
+    "beschrijving": "Verse komkommer, ideaal voor in salades of als gezonde snack.",
+    "prijs": 0.99
+  },
+  {
+    "artikelnummer": "100015",
+    "naam": "AH Paprika Rood 1 stuk",
+    "beschrijving": "Sappige rode paprika, perfect voor in gerechten of rauwkost.",
+    "prijs": 1.09
+  },
+  {
+    "artikelnummer": "100016",
+    "naam": "AH Aardappelen 2kg",
+    "beschrijving": "Vastkokende aardappelen voor een breed scala aan gerechten.",
+    "prijs": 2.99
+  },
+  {
+    "artikelnummer": "100017",
+    "naam": "AH Zalmfilet 150g",
+    "beschrijving": "Verse zalmfilet, rijk aan omega 3 vetzuren.",
+    "prijs": 5.49
+  },
+  {
+    "artikelnummer": "100018",
+    "naam": "AH Koffiepads 36 stuks",
+    "beschrijving": "Heerlijke koffiepads voor een snel kopje koffie.",
+    "prijs": 3.69
+  },
+  {
+    "artikelnummer": "100019",
+    "naam": "AH Chocolade Reep Puur 100g",
+    "beschrijving": "Pure chocolade reep, ideaal als traktatie of voor bij de koffie.",
+    "prijs": 1.29
+  },
+  {
+    "artikelnummer": "100020",
+    "naam": "AH Slamelange 200g",
+    "beschrijving": "Frisse slamelange, direct klaar voor gebruik in salades.",
+    "prijs": 1.79
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "voeren",
+    "label": "VOEREN",
+    "icon": "🥕",
+    "category": "care",
+    "happinessGain": 5,
+    "hungerGain": 20,
+    "cost": 10,
+    "thought": "🥕",
+    "chat": "Nom nom! De hamster geniet van een lekkere wortel."
+  },
+  {
+    "id": "slapen",
+    "label": "SLAPEN",
+    "icon": "💤",
+    "category": "care",
+    "happinessGain": 15,
+    "hungerGain": -5,
+    "cost": 20,
+    "thought": "💤",
+    "chat": "Zzz... De hamster heeft een dutje gedaan en voelt zich fris."
+  },
+  {
+    "id": "wassen",
+    "label": "WASSEN",
+    "icon": "🚿",
+    "category": "care",
+    "happinessGain": 10,
+    "hungerGain": 0,
+    "cost": 20,
+    "thought": "✨",
+    "chat": "Schoon en fris! De hamster voelt zich heerlijk."
+  },
+  {
+    "id": "spelen",
+    "label": "SPELEN",
+    "icon": "🎮",
+    "category": "play",
+    "happinessGain": 12,
+    "hungerGain": -8,
+    "cost": 15,
+    "thought": "🎮",
+    "chat": "Lekker spelen! De hamster is blij en heeft energie verbruikt."
+  }
+]

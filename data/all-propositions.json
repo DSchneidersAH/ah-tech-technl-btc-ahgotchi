@@ -1,0 +1,32 @@
+[
+  {
+    "id": "allerhande",
+    "title": "Allerhande recipes",
+    "tagline": "20,000+ recipes inside the app.",
+    "icon": "📖"
+  },
+  {
+    "id": "scan-kook",
+    "title": "AH Scan & Kook",
+    "tagline": "Photograph your fridge → dinner idea.",
+    "icon": "📸"
+  },
+  {
+    "id": "bonus-box",
+    "title": "Bonus Box",
+    "tagline": "Personal Bonus offers, every week.",
+    "icon": "🎁"
+  },
+  {
+    "id": "weekly-menu",
+    "title": "Personal weekly menu",
+    "tagline": "Steijn plans your week in seconds.",
+    "icon": "📅"
+  },
+  {
+    "id": "food-waste",
+    "title": "Food-waste reduction",
+    "tagline": "Small daily swaps. Big 2030 goal.",
+    "icon": "♻️"
+  }
+]

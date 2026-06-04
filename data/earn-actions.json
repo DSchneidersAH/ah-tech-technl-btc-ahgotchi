@@ -1,0 +1,34 @@
+[
+  {
+    "id": "boodschappen",
+    "label": "Boodschappen doen",
+    "icon": "🛒",
+    "category": "earn",
+    "nootjes": 20,
+    "description": "Doe je boodschappen bij AH"
+  },
+  {
+    "id": "allerhande",
+    "label": "Allerhande bekijken",
+    "icon": "📖",
+    "category": "earn",
+    "nootjes": 10,
+    "description": "Ontdek nieuwe recepten"
+  },
+  {
+    "id": "bonus",
+    "label": "Bonus activeren",
+    "icon": "🎁",
+    "category": "earn",
+    "nootjes": 15,
+    "description": "Activeer je Bonus aanbiedingen"
+  },
+  {
+    "id": "duurzaam",
+    "label": "Duurzaam product",
+    "icon": "🌱",
+    "category": "earn",
+    "nootjes": 25,
+    "description": "Kies een duurzaam product"
+  }
+]

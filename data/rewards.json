@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bonus-coffee",
+    "type": "bonus",
+    "title": "25% off Perla coffee",
+    "subtitle": "Bonus offer · expires Sunday",
+    "icon": "☕",
+    "color": "#1f6fb2"
+  },
+  {
+    "id": "bonus-yogurt",
+    "type": "bonus",
+    "title": "2 voor €3 op AH Biologisch yoghurt",
+    "subtitle": "Bonus offer · this week only",
+    "icon": "🥛",
+    "color": "#1f6fb2"
+  },
+  {
+    "id": "bonus-veggie",
+    "type": "bonus",
+    "title": "€1.50 off any vegetarian Allerhande box",
+    "subtitle": "Bonus offer · personal",
+    "icon": "🥗",
+    "color": "#1f6fb2"
+  },
+  {
+    "id": "cosmetic-hat",
+    "type": "cosmetic",
+    "title": "Tiny AH cap",
+    "subtitle": "AHgochi unlocked a stylish hat.",
+    "icon": "🧢",
+    "color": "#e1b441"
+  },
+  {
+    "id": "cosmetic-scarf",
+    "type": "cosmetic",
+    "title": "Steijn-blue scarf",
+    "subtitle": "Matches the assistant. Very on-brand.",
+    "icon": "🧣",
+    "color": "#e1b441"
+  },
+  {
+    "id": "cosmetic-bowtie",
+    "type": "cosmetic",
+    "title": "Bonus-bowtie",
+    "subtitle": "Strictly for Bonus-only Mondays.",
+    "icon": "🎀",
+    "color": "#e1b441"
+  },
+  {
+    "id": "content-recipe",
+    "type": "content",
+    "title": "New Allerhande recipe: 15-min stamppot",
+    "subtitle": "Unlocked: weeknight winner.",
+    "icon": "📖",
+    "color": "#2fa67a"
+  },
+  {
+    "id": "content-tip",
+    "type": "content",
+    "title": "Food-waste tip pack",
+    "subtitle": "5 quick wins from Steijn.",
+    "icon": "💡",
+    "color": "#2fa67a"
+  },
+  {
+    "id": "content-early-access",
+    "type": "content",
+    "title": "Early access: AH Scan & Kook beta",
+    "subtitle": "Photograph your fridge, get dinner.",
+    "icon": "🎟️",
+    "color": "#2fa67a"
+  }
+]

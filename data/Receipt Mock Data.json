@@ -1,0 +1,37 @@
+[
+  {
+    "klantnummer": "200456",
+    "bonregels": [
+      {"artikelnummer": "100001", "kassabonomschrijving": "AH Volkorenbrood", "prijs": 2.39},
+      {"artikelnummer": "100003", "kassabonomschrijving": "AH Bananen 1kg", "prijs": 1.99}
+    ]
+  },
+  {
+    "klantnummer": "200457",
+    "bonregels": [
+      {"artikelnummer": "100002", "kassabonomschrijving": "AH Halfvolle Melk 1L", "prijs": 1.09},
+      {"artikelnummer": "100005", "kassabonomschrijving": "AH Tomaten 500g", "prijs": 1.49},
+      {"artikelnummer": "100014", "kassabonomschrijving": "AH Komkommer stuk", "prijs": 0.99}
+    ]
+  },
+  {
+    "klantnummer": "200456",
+    "bonregels": [
+      {"artikelnummer": "100017", "kassabonomschrijving": "AH Zalmfilet 150g", "prijs": 5.49},
+      {"artikelnummer": "100019", "kassabonomschrijving": "AH Chocolade Reep Puur 100g", "prijs": 1.29}
+    ]
+  },
+  {
+    "klantnummer": "200457",
+    "bonregels": [
+      {"artikelnummer": "100007", "kassabonomschrijving": "AH Sinaasappelsap 1L", "prijs": 1.89},
+      {"artikelnummer": "100012", "kassabonomschrijving": "AH Eieren Vrije Uitloop 10 stuks", "prijs": 2.79}
+    ]
+  },
+  {
+    "klantnummer": "200456",
+    "bonregels": [
+      {"artikelnummer": "100010", "kassabonomschrijving": "AH Roomboter 250g", "prijs": 2.49}
+    ]
+  }
+]

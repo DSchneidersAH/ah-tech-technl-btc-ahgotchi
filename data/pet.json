@@ -1,0 +1,36 @@
+{
+  "name": "AH Hamster",
+  "tagline": "Jouw digitale huisdier",
+  "emoji": "🐹",
+  "stages": [
+    {
+      "id": "baby",
+      "label": "Baby Hamster",
+      "emoji": "🐹",
+      "minHappiness": 0,
+      "blurb": "Een kleine hamster die net geboren is."
+    },
+    {
+      "id": "young",
+      "label": "Jonge Hamster",
+      "emoji": "🐹",
+      "minHappiness": 30,
+      "blurb": "Een energieke jonge hamster."
+    },
+    {
+      "id": "adult",
+      "label": "Volwassen Hamster",
+      "emoji": "🐹",
+      "minHappiness": 70,
+      "blurb": "Een gezonde volwassen hamster die van je houdt."
+    }
+  ],
+  "moods": [
+    { "id": "hungry", "label": "Hongerig", "maxHunger": 30, "emoji": "😟" },
+    { "id": "content", "label": "Tevreden", "maxHunger": 70, "emoji": "😊" },
+    { "id": "happy", "label": "Blij", "maxHunger": 100, "emoji": "😄" }
+  ],
+  "initialHappiness": 50,
+  "initialHunger": 50,
+  "initialAge": 1
+}
