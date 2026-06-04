@@ -1,10 +1,10 @@
 export default function OutfitSelector({ currentOutfit, unlockedOutfits, onSelectOutfit, onClose }) {
   const outfits = [
-    { id: 'default', label: 'Standaard', sprite: '/sprites/hamster/hamster.png' },
-    { id: 'sombrero', label: 'Sombrero', sprite: '/sprites/hamster/hamster-sombrero.png' },
-    { id: 'swim', label: 'Zwemmen', sprite: '/sprites/hamster/hamster-swim.png' },
-    { id: 'wk', label: 'WK', sprite: '/sprites/hamster/hamster-wk.png' },
-    { id: 'tiara', label: 'Tiara', sprite: '/sprites/hamster/hamster-tiara.png' },
+    { id: 'default', label: 'Standaard', sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster.png` },
+    { id: 'sombrero', label: 'Sombrero', sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster-sombrero.png` },
+    { id: 'swim', label: 'Zwemmen', sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster-swim.png` },
+    { id: 'wk', label: 'WK', sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster-wk.png` },
+    { id: 'tiara', label: 'Tiara', sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster-tiara.png` },
   ]
 
   const isUnlocked = (outfitId) => unlockedOutfits.includes(outfitId)

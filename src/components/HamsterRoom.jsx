@@ -36,7 +36,7 @@ export default function HamsterRoom({ thought, bumpKey, hamsterSprite, nutrition
       <div className={`room-bg ${criticalLevel !== 'none' ? `room-bg--${criticalLevel}` : ''}`} style={getCriticalStatEffect()}>
         {/* Background Image */}
         <img
-          src="/sprites/backgrounds/hamster-background.png"
+          src={`${import.meta.env.BASE_URL}sprites/backgrounds/hamster-background.png`}
           alt="Hamster Room"
           className="room-background-image"
         />

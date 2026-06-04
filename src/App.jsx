@@ -34,7 +34,7 @@ function App() {
   const [showEarnPanel, setShowEarnPanel] = useState(false)
   const [showOutfitSelector, setShowOutfitSelector] = useState(false)
   const [currentOutfit, setCurrentOutfit] = useState('default')
-  const [hamsterSprite, setHamsterSprite] = useState('/sprites/hamster/hamster.png')
+  const [hamsterSprite, setHamsterSprite] = useState(`${import.meta.env.BASE_URL}sprites/hamster/hamster.png`)
   const [lastHour, setLastHour] = useState(11)
   const [statChanges, setStatChanges] = useState([])
   const [unlockedOutfits, setUnlockedOutfits] = useState(['default', 'sombrero', 'swim'])
@@ -62,13 +62,13 @@ function App() {
     tiara: {
       id: 'tiara',
       label: 'Tiara',
-      sprite: '/sprites/hamster/hamster-tiara.png',
+      sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster-tiara.png`,
       unlockMessage: 'Je hamster heeft 100% rust bereikt! Deze koninklijke tiara is nu van jou.',
     },
     wk: {
       id: 'wk',
       label: 'WK',
-      sprite: '/sprites/hamster/hamster-wk.png',
+      sprite: `${import.meta.env.BASE_URL}sprites/hamster/hamster-wk.png`,
       unlockMessage: 'Je hamster heeft 100% entertainment bereikt! Deze WK outfit is nu van jou.',
     },
   }
